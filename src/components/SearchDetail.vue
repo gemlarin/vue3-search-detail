@@ -1,16 +1,3 @@
-<!--
-  Day 2 timed slice (90 min) — Search + detail
-
-  Checklist:
-  [X] load posts on mount (usePosts)
-  [X] search input filters list
-  [X] click row → show detail (title + body)
-  [X] loading / empty / error UI
-  [X] types for Post
-  [X] thin component; rules in composables
-
-  Start timer. No AI until debrief.
--->
 <script setup lang="ts">
 import { onBeforeUnmount, onMounted, ref } from "vue";
 import { usePosts } from "./../composables/usePosts";
