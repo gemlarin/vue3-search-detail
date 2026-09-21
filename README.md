@@ -2,7 +2,7 @@
 
 Vue 3 + TypeScript demo of a **searchable list with expandable detail**.
 
-## What it demonstrates
+## Features
 
 - Fetch posts from a public API (`jsonplaceholder`) with mock fallback
 - Client-side filter by user ID
